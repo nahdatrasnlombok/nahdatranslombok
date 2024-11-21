@@ -1,0 +1,407 @@
+{
+  "paket_wisata": [
+    {
+      "id": "5804868b-65d0-4dc0-b536-aae08ad17d6e",
+      "imageUrl": "/images/paket_1.png",
+      "nama_paket": "3 Hari 2 Malam",
+      "deskripsi": "Trip Lombok 3 hari 2 malam ini merupakan paket wisata dengan durasi waktu yang cukup ideal dan selalu menjadi favorite di kalangan wisatawan Domestik.",
+      "lokasi": "Lombok, NTB",
+      "overview": "Trip Lombok 3 hari 2 malam ini merupakan paket wisata dengan durasi waktu yang cukup ideal dan selalu menjadi favorite di kalangan wisatawan Domestik. Susunan Program Trip Lombok ini juga terbilang lebih simple dan fleksibel, Anda dapat mengatur tujuan destinasi, Akomodasi Hotel sampai Armada yang bisa anda pesan sesuai keinginan.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "3 Hari 2 Malam",
+      "tarif": [
+        {
+          "jumlahPeserta": "2-3 Orang",
+          "biaya": "Rp. 2.200.000 / pax"
+        },
+        {
+          "jumlahPeserta": "4-5 Orang",
+          "biaya": "Rp. 2.150.000 / pax"
+        },
+        {
+          "jumlahPeserta": "6-10 Orang",
+          "biaya": "Rp. 2.100.000 / pax"
+        },
+        {
+          "jumlahPeserta": "11-13 Orang",
+          "biaya": "Rp. 2.050.000 / pax"
+        },
+        {
+          "jumlahPeserta": "14-20 Orang",
+          "biaya": "Rp. 2.000.000 / pax"
+        },
+        {
+          "jumlahPeserta": "21-30 Orang",
+          "biaya": "Rp. 1.950.000 / pax"
+        },
+        {
+          "jumlahPeserta": "31-50 Orang",
+          "biaya": "Rp. 1.900.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        {
+          "hari": "Hari 1",
+          "listKegiatan": [
+            "Penjemputan di hotel atau lokasi yang disepakati",
+            "Desa Adat Sukerare",
+            "Desa Adat Sade",
+            "Pantai Kuta Lombok",
+            "Bukit Merese (Opt 1)",
+            "Pantai Tanjung Aan (Opt 2)",
+            "Pantai Mawun (Opt 2)",
+            "Pantai Selong Belanak (Opt 2)"
+          ]
+        },
+        {
+          "hari": "Hari 2A",
+          "listKegiatan": [
+            "Villa Hantu",
+            "Bukit Malimbu",
+            "Bukit Malaka",
+            "Pantai Kecinan",
+            "Gili Air, Meno, Trawangan (Snorkling)"
+          ]
+        },
+        {
+          "hari": "Hari 2B",
+          "listKegiatan": ["Gili Nanggu", "Gili Sudak", "Gili Kedis"]
+        },
+        {
+          "hari": "Hari 2C",
+          "listKegiatan": [
+            "Pantai Pink 3",
+            "Snorkling",
+            "Pantai Pink 1",
+            "Bukit Tangsi",
+            "Pulau Pasir"
+          ]
+        },
+        {
+          "hari": "Hari 2D",
+          "listKegiatan": [
+            "Rest Area",
+            "Bukit Selong",
+            "Kedai Sawah",
+            "Kebun Strawberry",
+            "Puncak Sembalun"
+          ]
+        },
+        {
+          "hari": "Hari 2E",
+          "listKegiatan": [
+            "Bukit Malimbu",
+            "Bukit Malaka",
+            "Air Terjun Tiu Kelep",
+            "Air Terjun Sendang Gile"
+          ]
+        },
+        {
+          "hari": "Hari 3",
+          "listKegiatan": [
+            "Pusat Oleh-oleh",
+            "Masjid Islamic Center",
+            "Desa Banyumulek",
+            "Pengantaran ke Bandara / Pelabuhan"
+          ]
+        }
+      ],
+      "include": [
+        "Mobil+BBM+Driver",
+        "Guide",
+        "Hotel (Jika telah Menghubungi Tim Kami untuk Pemesanan Paket include Hotel)",
+        "Air Mineral",
+        "Private Boat",
+        "Alat Snorkling",
+        "Tiket masuk semua wisata",
+        "Makan selama trip",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Tiket pesawat"],
+      "ketentuan": [
+        "Harga dapat berubah sewaktu waktu mengikuti (LS/HS/PS)",
+        "Paket include hotel : diharapkan untuk menghubungi Tim kami terlebih dahulu",
+        "Paket include hotel : Sesuai dengan harga hotel yang di pilih & harga di atas per orang",
+        "Upgrade kamar dikenakan biaya tambahan",
+        "Apabila peserta berjumlah ganjil maka 1 peserta akan menggunakan extra bed. Contoh: *3 peserta mendapat 1 kamar dengan extra bed *5 peserta mendapat 2 kamar dengan extra bed",
+        "Trip ini private, tidak digabung dengan peserta yg lain.",
+        "Kondisional : itinerary diatas waktunya kondisional",
+        "Pilihan : Memilih salah satu destinasi",
+        "Dokumentasi menggunakan Handphone, Gopro (underwater), dan Kamera (jika tersedia) berupa poto dan file asli",
+        "Dokumentasi group/company (21-50 pax) menggunakan kamera, drone, dan gopro berupa poto & video "
+      ]
+    },
+    {
+      "id": "29861b39-ebb6-4ca7-b5a3-e5f42ed48a52",
+      "imageUrl": "/images/paket_2.png",
+      "nama_paket": "4 Hari 3 Malam",
+      "deskripsi": "4H3M adalah paket wisata yang akan mengajak anda  menjelajahi keindahan alam, keistimewaan Adat dan keunikan budaya Lombok.",
+      "lokasi": "Lombok, NTB",
+      "overview": "Explore  Lombok 4 Hari 3 Malam adalah paket wisata yang akan mengajak anda  menjelajahi keindahan alam, keistimewaan Adat dan keunikan budaya suku sasak di pulau lombok. Paket Tour ini sangat cocok untuk anda yang memiliki waktu liburan yang panjang sehingga lebih puas explore lombok bersama Sahabat, keluarga, Pasangan tercinta hingga rombongan Group dan Kantor.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "4 Hari 3 Malam",
+      "tarif": [
+        {
+          "jumlahPeserta": "2-3 Orang",
+          "biaya": "Rp. 2.900.000 / pax"
+        },
+        {
+          "jumlahPeserta": "4-5 Orang",
+          "biaya": "Rp. 2.500.000 / pax"
+        },
+        {
+          "jumlahPeserta": "6-10 Orang",
+          "biaya": "Rp. 2.450.000 / pax"
+        },
+        {
+          "jumlahPeserta": "11-13 Orang",
+          "biaya": "Rp. 2.350.000 / pax"
+        },
+        {
+          "jumlahPeserta": "14-20 Orang",
+          "biaya": "Rp. 2.300.000 / pax"
+        },
+        {
+          "jumlahPeserta": "21-30 Orang",
+          "biaya": "Rp. 1.250.000 / pax"
+        },
+        {
+          "jumlahPeserta": "31-50 Orang",
+          "biaya": "Rp. 1.200.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        {
+          "hari": "Hari 1",
+          "listKegiatan": [
+            "Penjemputan di hotel atau lokasi yang disepakati",
+            "Desa Adat Sukerare",
+            "Desa Adat Sade",
+            "Pantai Kuta Lombok",
+            "Bukit Merese (Opt 1)",
+            "Pantai Tanjung Aan (Opt 2)",
+            "Pantai Mawun (Opt 2)",
+            "Pantai Selong Belanak (Opt 2)"
+          ]
+        },
+        {
+          "hari": "Hari 2",
+          "listKegiatan": [
+            "Villa Hantu",
+            "Bukit Malimbu",
+            "Bukit Malaka",
+            "Pantai Kecinan",
+            "Gili Air, Meno, Trawangan (Snorkling)"
+          ]
+        },
+        {
+          "hari": "Hari 3A",
+          "listKegiatan": [
+            "Bukit Malimbu",
+            "Bukit Malaka",
+            "Air Terjun Tiu Kelep",
+            "Air Terjun Sendang Gile"
+          ]
+        },
+        {
+          "hari": "Hari 3B",
+          "listKegiatan": [
+            "Rest Area",
+            "Bukit Selong",
+            "Kedai Sawah",
+            "Kebun Strawberry",
+            "Puncak Sembalun"
+          ]
+        },
+        {
+          "hari": "Hari 3C",
+          "listKegiatan": ["Gili Nanggu", "Gili Sudak", "Gili Kedis"]
+        },
+        {
+          "hari": "Hari 3D",
+          "listKegiatan": [
+            "Pantai Pink 3",
+            "Snorkling",
+            "Pantai Pink 1",
+            "Bukit Tangsi",
+            "Pulau Pasir"
+          ]
+        }
+      ],
+      "include": [
+        "Mobil+BBM+Driver",
+        "Guide",
+        "Hotel (Jika telah Menghubungi Tim Kami untuk Pemesanan Paket include Hotel)",
+        "Air Mineral",
+        "Private Boat",
+        "Alat Snorkling",
+        "Tiket masuk semua wisata",
+        "Makan selama trip",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Tiket pesawat"],
+      "ketentuan": [
+        "Harga dapat berubah sewaktu waktu mengikuti (LS/HS/PS)",
+        "Paket include hotel : diharapkan untuk menghubungi Tim kami terlebih dahulu",
+        "Paket include hotel : Sesuai dengan harga hotel yang di pilih & harga di atas per orang",
+        "Upgrade kamar dikenakan biaya tambahan",
+        "Apabila peserta berjumlah ganjil maka 1 peserta akan menggunakan extra bed. Contoh: *3 peserta mendapat 1 kamar dengan extra bed *5 peserta mendapat 2 kamar dengan extra bed",
+        "Trip ini private, tidak digabung dengan peserta yg lain.",
+        "Kondisional : itinerary diatas waktunya kondisional",
+        "Pilihan : Memilih salah satu destinasi",
+        "Dokumentasi menggunakan Handphone, Gopro (underwater), dan Kamera (jika tersedia) berupa poto dan file asli",
+        "Dokumentasi group/company (21-50 pax) menggunakan kamera, drone, dan gopro berupa poto & video "
+      ]
+    },
+    {
+      "id": "122e924070-0a05-4ad5-8fe2-275010c8442f3123",
+      "imageUrl": "/images/paket_3.png",
+      "nama_paket": "5 Hari 4 Malam",
+      "deskripsi": "5H4M adalah paket liburan dengan durasi waktu yang terbilang memadai, pilihan destinasi yang beragam mulai dari destinasi wisata pantai, pegunungan, hingga keindahan alam bawah laut Lombok yang exotic",
+      "lokasi": "Lombok, NTB",
+      "overview": "Paket wisata lombok 5 Hari 4 Malam adalah paket liburan yang di kemas dengan istimewa untuk anda yang ingin mewujudkan liburan yang Asyik, praktis dan mudah, dengan durasi waktu yang terbilang memadai, paket ini memberikan pilihan destinasi yang beragam mulai dari destinasi wisata pantai, pegunungan, hingga mengeksplore keindahan alam bawah laut pulau lombok yang exotic dan di rangkai dengan snorkling trip, jika anda memesan paket ini anda tidak perlu repot mengurus keperluan tour sendiri, anda cukup memesan tiket pesawat ke lombok dan kami akan mengatur segala keperluan tour anda.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "5 Hari 4 Malam",
+      "tarif": [
+        {
+          "jumlahPeserta": "2-3 Orang",
+          "biaya": "Rp. 3.575.000 / pax"
+        },
+        {
+          "jumlahPeserta": "4-5 Orang",
+          "biaya": "Rp. 3.175.000 / pax"
+        },
+        {
+          "jumlahPeserta": "6-10 Orang",
+          "biaya": "Rp. 3.125.000 / pax"
+        },
+        {
+          "jumlahPeserta": "11-13 Orang",
+          "biaya": "Rp 3.025.000 / pax"
+        },
+        {
+          "jumlahPeserta": "14-20 Orang",
+          "biaya": "Rp 2.975.000 / pax"
+        },
+        {
+          "jumlahPeserta": "21-30 Orang",
+          "biaya": "Rp. 2.925.000 / pax"
+        },
+        {
+          "jumlahPeserta": "31-50 Orang",
+          "biaya": "Rp. 2.875.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        {
+          "hari": "Hari 1",
+          "listKegiatan": [
+            "Penjemputan di hotel atau lokasi yang disepakati",
+            "Desa Adat Sukerare",
+            "Desa Adat Sade",
+            "Pantai Kuta Lombok",
+            "Bukit Merese (Opt 1)",
+            "Pantai Tanjung Aan (Opt 2)",
+            "Pantai Mawun (Opt 2)",
+            "Pantai Selong Belanak (Opt 2)"
+          ]
+        },
+        {
+          "hari": "Hari 2A",
+          "listKegiatan": [
+            "Villa Hantu",
+            "Bukit Malimbu",
+            "Bukit Malaka",
+            "Pantai Kecinan",
+            "Gili Air, Meno, Trawangan (Snorkling)"
+          ]
+        },
+        {
+          "hari": "Hari 2B",
+          "listKegiatan": ["Gili Nanggu", "Gili Sudak", "Gili Kedis"]
+        },
+        {
+          "hari": "Hari 2C",
+          "listKegiatan": ["Gili Bidara", "Gili Sudak", "Gili Kedis"]
+        },
+        {
+          "hari": "Hari 3AC",
+          "listKegiatan": [
+            "Rest Area",
+            "Bukit Selong",
+            "Kedai Sawah",
+            "Kebun Strawberry",
+            "Puncak Sembalun"
+          ]
+        },
+        {
+          "hari": "Hari 3B",
+          "listKegiatan": [
+            "Bukit Malimbu",
+            "Bukit Malaka",
+            "Air Terjun Tiu Kelep",
+            "Air Terjun Sendang Gile"
+          ]
+        },
+        {
+          "hari": "Hari 4",
+          "listKegiatan": [
+            "Pantai Pink 3",
+            "Snorkling",
+            "Pantai Pink 1",
+            "Bukit Tangsi",
+            "Pulau Pasir"
+          ]
+        },
+        {
+          "hari": "Hari 5",
+          "listKegiatan": [
+            "Pusat oleh-oleh",
+            "Masjid Islamic Center",
+            "Desa Banyumulek",
+            "Pengantaran ke Bandara / Pelabuhan"
+          ]
+        }
+      ],
+      "include": [
+        "Mobil+BBM+Driver",
+        "Guide",
+        "Hotel (Jika telah Menghubungi Tim Kami untuk Pemesanan Paket include Hotel)",
+        "Air Mineral",
+        "Private Boat",
+        "Alat Snorkling",
+        "Tiket masuk semua wisata",
+        "Makan selama trip",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Tiket pesawat"],
+      "ketentuan": [
+        "Harga dapat berubah sewaktu waktu mengikuti (LS/HS/PS)",
+        "Paket include hotel : diharapkan untuk menghubungi Tim kami terlebih dahulu",
+        "Paket include hotel : Sesuai dengan harga hotel yang di pilih & harga di atas per orang",
+        "Upgrade kamar dikenakan biaya tambahan",
+        "Apabila peserta berjumlah ganjil maka 1 peserta akan menggunakan extra bed. Contoh: *3 peserta mendapat 1 kamar dengan extra bed *5 peserta mendapat 2 kamar dengan extra bed",
+        "Trip ini private, tidak digabung dengan peserta yg lain.",
+        "Kondisional : itinerary diatas waktunya kondisional",
+        "Pilihan : Memilih salah satu destinasi",
+        "Dokumentasi menggunakan Handphone, Gopro (underwater), dan Kamera (jika tersedia) berupa poto dan file asli",
+        "Dokumentasi group/company (21-50 pax) menggunakan kamera, drone, dan gopro berupa poto & video "
+      ]
+    }
+  ],
+
+  "paket_wisata_lainnya": [
+    {
+      "id": "6126d19c-1b0d-4309-a813-aedd3077d580",
+      "namaPaket": "Tour Harian",
+      "keterangan": "Tour Harian mengantarkan anda bersama keluarga, menuju destinasi di lombok selama sehari penuh",
+      "url": "/tour-harian"
+    },
+    {
+      "id": "b162a25a-eee8-49ef-a50a-9de2945e4833",
+      "namaPaket": "Paket Honeymoon",
+      "keterangan": "Buat pasangan yang akan bulan madu di Lombok, kami hadirkan spesial buat anda beserta pasangan Hubungi Tim kami untuk detail",
+      "url": "/paket-honeymoon"
+    }
+  ]
+}

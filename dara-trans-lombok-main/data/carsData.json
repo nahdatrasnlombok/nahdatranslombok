@@ -1,0 +1,105 @@
+{
+  "cars": [
+    {
+      "id": "5804868b-65d0-4dc0-b536-aae08ad17d6e",
+      "imageUrl": "/images/avanza.png",
+      "car_name": "New Avanza",
+      "total_seat": 6,
+      "type": "AT/MT",
+      "fuel": "BBM",
+      "free_key": "Ya",
+      "price_on_free_key": "Rp. 400.000 /24 Jam",
+      "price_with_driver": "Rp. 750.000 / 12 Jam"
+    },
+    {
+      "id": "29861b39-ebb6-4ca7-b5a3-e5f42ed48a52",
+      "imageUrl": "/images/veloz.png",
+      "car_name": "New Veloz",
+      "total_seat": 6,
+      "type": "AT/MT",
+      "fuel": "BBM",
+      "free_key": "Ya",
+      "price_on_free_key": "Rp. 450.000 /24 Jam",
+      "price_with_driver": "Rp. 800.000 / 12 Jam"
+    },
+    {
+      "id": "122e924070-0a05-4ad5-8fe2-275010c8442f3123",
+      "imageUrl": "/images/reborn.png",
+      "car_name": "Innova Reborn",
+      "total_seat": 6,
+      "type": "AT/MT",
+      "fuel": "BBM",
+      "free_key": "Ya",
+      "price_on_free_key": "Rp. 550.000 /12 Jam",
+      "price_with_driver": "Rp. 950.000 / 12 Jam"
+    },
+    {
+      "id": "29c95762-4a5b-4600-b71b-ee7f9c353425",
+      "imageUrl": "/images/zenix.png",
+      "car_name": "Inova Zenix",
+      "total_seat": 6,
+      "type": "AT/MT",
+      "fuel": "BBM",
+      "free_key": "Ya",
+      "price_on_free_key": "Rp. 700.000 /12 Jam",
+      "price_with_driver": "Rp. 1.400.000 / 12 Jam"
+    },
+    {
+      "id": "e33599af-2dcf-4001-97ab-7ea6ec970918",
+      "imageUrl": "/images/fortuner.png",
+      "car_name": "Fortuner Vzr",
+      "total_seat": 6,
+      "type": "AT",
+      "fuel": "BBM",
+      "free_key": "Ya",
+      "price_on_free_key": "Rp. 1.200.000 /12 Jam",
+      "price_with_driver": "Rp. 1.700.000 / 12 Jam"
+    },
+    {
+      "id": "6126d19c-1b0d-4309-a813-aedd3077d580",
+      "imageUrl": "/images/pajero.png",
+      "car_name": "Pajero Sport",
+      "total_seat": 6,
+      "type": "AT/MT",
+      "fuel": "BBM",
+      "free_key": "Ya",
+      "price_on_free_key": "Rp. 1.200.000 /12 Jam",
+      "price_with_driver": "Rp. 1.700.000 / 12 Jam"
+    },
+    {
+      "id": "b162a25a-eee8-49ef-a50a-9de2945e4833",
+      "imageUrl": "/images/alpard.png",
+      "car_name": "Alphard",
+      "total_seat": 4,
+      "type": "AT/MT",
+      "fuel": "BBM",
+      "free_key": "Tidak",
+      "price_on_free_key": "Tidak Tersedia",
+      "price_with_driver": "Rp. 3.500.000 / 12 Jam"
+    },
+    {
+      "id": "d19b2b97-074d-47e5-85e7-fb4fcab03d78",
+      "imageUrl": "/images/haice_comuter.png",
+      "car_name": "Toyota Hiace",
+      "total_seat": 14,
+      "type": "MT",
+      "fuel": "BBM",
+      "free_key": "Tidak",
+      "price_on_free_key": "Tidak Tersedia",
+      "price_with_driver": "Rp. 1.200.000 / 12 Jam"
+    },
+    {
+      "id": "8f03d44a-424b-43eb-b2f9-ea7e6d28d7d2",
+      "imageUrl": "/images/haice_premio.png",
+      "car_name": "Toyota Hiace Premio",
+      "total_seat": 12,
+      "type": "MT",
+      "fuel": "BBM",
+      "free_key": "Tidak",
+      "price_on_free_key": "Tidak Tersedia",
+      "price_with_driver": "Rp. 2.500.000 / 12 Jam"
+    }
+    
+  
+  ]
+}

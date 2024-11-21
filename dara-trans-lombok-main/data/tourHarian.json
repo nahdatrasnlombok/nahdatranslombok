@@ -1,0 +1,414 @@
+{
+  "tourHarian": [
+    {
+      "id": "gili-terawangan",
+      "imageUrl": "/gili-terawangan.jpg",
+      "namaWisata": "Gili Trawangan",
+      "deskripsi": "Gili trawangan menjadi salah satu destinasi terbaik di Lombok, setelah merain banyak penghargaan tourism, gili trawangan ternayata adalah sebuah desa pulau yang unik, memiliki lebih dari 7 ribu kk, dan hidup berdampingan dengan touris lokal dan global. Selain itu di Gili Trawangan anda akan disuguhkan dengan keindahan pulau serta pemandangan bawah laut yang sangat indah.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "1 Hari",
+      "lokasi": "Lombok Utara, KLU",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 1.550.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2-3 Orang",
+          "biaya": "Rp. 800.000 / pax"
+        },
+        {
+          "jumlahPeserta": "4-5 Orang",
+          "biaya": "Rp. 500.000 / pax"
+        },
+        {
+          "jumlahPeserta": "6-7 Orang",
+          "biaya": "Rp 400.000 / pax"
+        },
+        {
+          "jumlahPeserta": "8-9 Orang",
+          "biaya": "Rp 350.000 / pax"
+        },
+        {
+          "jumlahPeserta": "10-15 Orang",
+          "biaya": "Rp. 275.000 / pax"
+        },
+        {
+          "jumlahPeserta": ">15 Orang",
+          "biaya": "Rp. 250.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Villa Hantu",
+        "Bukit Malimbu",
+        "Bukit Malaka",
+        "Pelabuhan",
+        "Snorkling (Gili Air, Meno, Terawangan)",
+        "Gili Terawangan (Free Activity)",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM",
+        "Driver+Guide",
+        "Handuk",
+        "Glass bottom boat private ketiga gili",
+        "Tiket masuk & parkir",
+        "Alat Snorkling",
+        "Air Mineral",
+        "GoPro underwater"
+      ],
+      "exlude": [
+        "Kebutuhan Pribadi",
+        "Makan Siang",
+        "Sepeda & Andog",
+        "Tip Guide"
+      ]
+    },
+    {
+      "id": "sembalun",
+      "namaWisata": "Sembalun",
+      "imageUrl": "/sembalun.jpg",
+      "deskripsi": "Sembalun menjadi destinasi wisata yang sering dituju untuk menghirup kesegaran udara Gunung Rinjani. Karena Gunung Rinjani merupakan area sebaran vulkanik, tak heran jika dari puncak bukit terlihat pemandangan tanaman hutan dan persawahan yang subur, hijau, dan segar.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "1 Hari",
+      "lokasi": "Lombok Timur, Sembalun",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 900.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2 Orang",
+          "biaya": "Rp. 475.000 / pax"
+        },
+        {
+          "jumlahPeserta": "3-4 Orang",
+          "biaya": "Rp. 350.000 / pax"
+        },
+        {
+          "jumlahPeserta": "5-6 Orang",
+          "biaya": "Rp 300.000 / pax"
+        },
+        {
+          "jumlahPeserta": "7-8 Orang",
+          "biaya": "Rp 250.000 / pax"
+        },
+        {
+          "jumlahPeserta": "9-10 Orang",
+          "biaya": "Rp. 200.000 / pax"
+        },
+        {
+          "jumlahPeserta": "> 15 Orang",
+          "biaya": "Rp. 200.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Puncak Sembalun",
+        "Kebun Strawberry (Opsional)",
+        "Bukit Selong",
+        "Sajang Glamping",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM+Driver",
+        "Guide",
+        "Tiket masuk & parkir",
+        "Air Mineral",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Makan Siang", "Tip Guide"]
+    },
+    {
+      "id": "pantai-pink",
+      "namaWisata": "Pantai Pink",
+      "imageUrl": "/pantai-pink.jpeg",
+      "deskripsi": "Pantai Pink terkenal dengan Lautnya yang Mempesona Laut di pantai Pink masih jernih sehingga saat naik sampan dapat melihat keindahan bawah laut dari atas permukaan air laut. Bagi yang suka mandi air laut, disini juga salah satu tempat yang menarik untuk main air laut di pesisir pantai, selain pasir yang terlihat pink, destinasi pantai pink juga menyajikan wisata bawah laut yang sangat indah dan kaya oleh flora dan fauna.",
+      "durasi": "1 Hari",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "lokasi": "Lombok Timur, Jerowaru",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 1.600.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2-3 Orang",
+          "biaya": "Rp. 675.000 / pax"
+        },
+        {
+          "jumlahPeserta": "4-5 Orang",
+          "biaya": "Rp. 500.000 / pax"
+        },
+        {
+          "jumlahPeserta": "6-7 Orang",
+          "biaya": "Rp 450.000 / pax"
+        },
+        {
+          "jumlahPeserta": "8-9 Orang",
+          "biaya": "Rp 400.000 / pax"
+        },
+        {
+          "jumlahPeserta": "10-15 Orang",
+          "biaya": "Rp. 350.000 / pax"
+        },
+        {
+          "jumlahPeserta": "> 15 Orang",
+          "biaya": "Rp. 300.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Pelabuhan Tanjung Luar",
+        "Pantai Pink 3",
+        "Snorkling Gili Petelu",
+        "Pantai Pink 1",
+        "Bukit Tangsi",
+        "Pulau Pasir",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM+Driver",
+        "Guide",
+        "Handuk",
+        "Private Boat",
+        "Tiket masuk & parkir",
+        "Alat Snorkling",
+        "Air Mineral",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Makan Siang", "Tip Guide"]
+    },
+    {
+      "id": "sasak-mandalika",
+      "namaWisata": "Sasak Mandalika",
+      "imageUrl": "/sasak-mandalika.jpg",
+      "deskripsi": "Kawasan desa adat Sasak ini memiliki sejarah panjang. Eksis sejak 1.500 tahun lalu. Ketika memasuki halaman parkir, sudah terlihat atap rumah adat yang terbuat dari anyaman bambu berdiri kokoh, di antara bangunan modern berdinding tembok. Nuansa tradisional terlihat dari atap genting antik yang terbuat dari pelepah daun rumbai (ijuk). Bale Tani digunakan sebagai tempat tinggal penduduk suku Sasak. Sedangkan Bale Lumbung sebagai tempat penyimpanan hasil bumi. Suasana pedesaan Lombok masa lalu sangat terasa. nikmati juga pengalaman untuk belajar menenun kain hingga mencoba baju adat khas Sasak asal Lombok ini.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "1 Hari",
+      "lokasi": "Lombok Tengah, Pujut",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 650.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2 Orang",
+          "biaya": "Rp. 375.000 / pax"
+        },
+        {
+          "jumlahPeserta": "3-4 Orang",
+          "biaya": "Rp. 300.000 / pax"
+        },
+        {
+          "jumlahPeserta": "5-6 Orang",
+          "biaya": "Rp 250.000 / pax"
+        },
+        {
+          "jumlahPeserta": "7-8 Orang",
+          "biaya": "Rp 200.000 / pax"
+        },
+        {
+          "jumlahPeserta": "9-10 Orang",
+          "biaya": "Rp. 175.000 / pax"
+        },
+        {
+          "jumlahPeserta": "> 15 Orang",
+          "biaya": "Rp. 150.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Desa Adat Sukerare",
+        "Desa Adat Sade",
+        "Pantai Kuta Mandalika",
+        "Bukit Merese (Optional 1)",
+        "Pantai Tanjung Aan (Optional 1)",
+        "Pantai Mawun (Optional 2)",
+        "Pantai Selong Belanak (Optional 2)",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM+Driver",
+        "Guide",
+        "Tiket masuk & parkir",
+        "Air Mineral",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Makan Siang", "Tip Guide"]
+    },
+    {
+      "id": "tiu-kelep-waterfall",
+      "namaWisata": "Tiu Kelep Waterfall",
+      "imageUrl": "/tiu-kelep.jpg",
+      "deskripsi": "Berada di kaki Rinjani, letak air terjun Tiu Kelep berdekatan dengan air terjun Sendang Gile yang sudah terkenal duluan. Sekitar 30 menit sampai satu jam jalan, tergantung seberapa cepat langkah kaki. Berbeda dengan keindahan Sendang Gile yang mengucur dua tingkat, Tiu Kelep adalah air terjun dengan air deras yang langsung menumpahkan ruah dari ketinggian sekitar 40 meter. Saking derasnya, bahkan percikan kabut udara Tiu Kelep sudah bisa dirasakan dari jarak 100 meter. Serunya, ada kolam renang alami di bawah air terjun. Brrrr , airnya dingin sekali! Â Menurut kepercayaan penduduk lokal, berenang di sini bikin awet muda loh.",
+      "start": "Bandara Lombok / Hotel / Kota Mataram",
+      "durasi": "1 Hari",
+      "lokasi": "Lombok Utara, Bayan, Pujut",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 900.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2 Orang",
+          "biaya": "Rp. 500.000 / pax"
+        },
+        {
+          "jumlahPeserta": "3-4 Orang",
+          "biaya": "Rp. 350.000 / pax"
+        },
+        {
+          "jumlahPeserta": "5-6 Orang",
+          "biaya": "Rp 300.000 / pax"
+        },
+        {
+          "jumlahPeserta": "7-8 Orang",
+          "biaya": "Rp 250.000 / pax"
+        },
+        {
+          "jumlahPeserta": "9-10 Orang",
+          "biaya": "Rp. 200.000 / pax"
+        },
+        {
+          "jumlahPeserta": "> 15 Orang",
+          "biaya": "Rp. 150.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Air Terjun Sendang Gile",
+        "Ait Terjun Tiu Kelep",
+        "Bukit Malaka",
+        "Bukit Malimbu",
+        "Villa Hantu",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM+Driver",
+        "Guide",
+        "Tiket masuk & parkir",
+        "Air Mineral",
+        "Dokumentasi"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Makan Siang", "Tip Guide"]
+    },
+    {
+      "id": "gili-nanggu",
+      "namaWisata": "Gili Nanggu",
+      "imageUrl": "gili-nanggu.jpg",
+      "deskripsi": "Gili Nanggu di lombok merupakan Gili tanpa penghuni yang sangat indah dengan hamparan pasir putih dengan luas empat kali lebih kecil dari gili trawangan, jika mau menginap harus membawa tenda dengan bonus menginap di pulau ini adalah, kamu akan menikmati Sunset dan Sunrise dalam satu tempat. Selain itu, secara geografis, Gili Nanggu, Sudak dan Kedis sendiri terletak diantara peralihan arus air hangat Samudera Pasifik yang memiliki kadar asin yang rendah dengan air Samudera Hindia. Gugusan anak pulau dari Sunda kecil ini juga termasuk lingkup Wallacea. Sebuah kawasan dengan laboratarium alam paling kaya di dunia dengan keanekargaman hayati yang luar biasa.",
+      "durasi": "1 Hari",
+      "lokasi": "Lombok Utara, Bayan, Pujut",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 1.400.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2 Orang",
+          "biaya": "Rp. 550.000 / pax"
+        },
+        {
+          "jumlahPeserta": "3-4 Orang",
+          "biaya": "Rp. 375.000 / pax"
+        },
+        {
+          "jumlahPeserta": "5-6 Orang",
+          "biaya": "Rp 325.000 / pax"
+        },
+        {
+          "jumlahPeserta": "7-8 Orang",
+          "biaya": "Rp 275.000 / pax"
+        },
+        {
+          "jumlahPeserta": "9-10 Orang",
+          "biaya": "Rp. 225.000 / pax"
+        },
+        {
+          "jumlahPeserta": "> 15 Orang",
+          "biaya": "Rp. 200.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Pelabuhan Tawun",
+        "Gili Nanggu (Snorkling)",
+        "Gili Sudak",
+        "Gili Kedis",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM",
+        "Driver+Guide",
+        "Handuk",
+        "Boat private ke tiga gili",
+        "Tiket masuk & parkir",
+        "Alat Snorkling",
+        "Air Mineral",
+        "GoPro underwater"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Makan Siang", "Tip Guide"]
+    },
+    {
+      "id": "gili-kondo",
+      "namaWisata": "Gili Kondo",
+      "imageUrl": "/gili-kondo.jpg",
+      "deskripsi": "Gili Kondo adalah sebuah pulau kecil yang terletak di sebelah timur Pulau Lombok, Indonesia. Pulau ini terkenal dengan keindahan alamnya yang masih asri dan terjaga, dengan air laut yang jernih dan pantai pasir putih yang menawan. Selain itu, Gili Kondo juga menjadi tempat yang populer bagi para wisatawan yang ingin melakukan aktivitas snorkeling atau menyelam, karena terumbu karang dan keanekaragaman hayati laut yang terdapat di sekitarnya. Namun, karena ukurannya yang kecil dan akses yang terbatas, Gili Kondo juga memiliki suasana yang lebih tenang dan sepi dibandingkan dengan pulau-pulau lain di sekitarnya. Ini menjadikan Gili Kondo sebagai tempat yang tepat bagi mereka yang ingin menikmati liburan yang lebih private dan santai, jauh dari keramaian dan hiruk pikuk kehidupan kota.",
+      "durasi": "1 Hari",
+      "lokasi": "Lombok Utara, Bayan, Pujut",
+      "tarif": [
+        {
+          "jumlahPeserta": "1 Orang",
+          "biaya": "Rp. 1.700.000 / pax"
+        },
+        {
+          "jumlahPeserta": "2-3 Orang",
+          "biaya": "Rp. 850.000 / pax"
+        },
+        {
+          "jumlahPeserta": "4-5 Orang",
+          "biaya": "Rp. 475.000 / pax"
+        },
+        {
+          "jumlahPeserta": "6-7 Orang",
+          "biaya": "Rp 375.000 / pax"
+        },
+        {
+          "jumlahPeserta": "8-9 Orang",
+          "biaya": "Rp 325.000 / pax"
+        },
+        {
+          "jumlahPeserta": "10-15 Orang",
+          "biaya": "Rp. 300.000 / pax"
+        },
+        {
+          "jumlahPeserta": "> 15 Orang",
+          "biaya": "Rp. 250.000 / pax"
+        }
+      ],
+      "kegiatan": [
+        "Penjemputan di hotel atau lokasi yang disepakati",
+        "Pelabhuan Padak Guar",
+        "Gili Bidara (Snorkling)",
+        "Gili Petangan (Snorkling)",
+        "Gili Kapal",
+        "Gili Kondo",
+        "Kembali ke Pelabuhan",
+        "Kembali ke hotel"
+      ],
+      "include": [
+        "Mobile+BBM",
+        "Driver+Guide",
+        "Handuk",
+        "Boat private ke empat gili",
+        "Tiket masuk & parkir",
+        "Alat Snorkling",
+        "Air Mineral",
+        "Dokumentasi underwater"
+      ],
+      "exlude": ["Kebutuhan Pribadi", "Makan Siang", "Tip Guide"]
+    }
+  ]
+}
